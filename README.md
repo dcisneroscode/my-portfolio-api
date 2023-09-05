@@ -1,2 +1,4 @@
 # my-portfolio-api
 The main goal of this project is to create a backend API that will act as an access point to the relevant information I want to display in my web portfolio. This will include details about my projects, skills, experience and achievements. The API will be backed by a database where I will store and manage this data efficiently.
+
+Creating this FastAPI-based backend API will be a crucial step in taking my React web portfolio to the next level. By providing a centralized source of data, I will streamline the presentation of my accomplishments and skills, creating a captivating and valuable experience for my site visitors. This project will not only showcase my technical skills, but will also highlight my ability to create robust and efficient solutions that support my professional goals.
